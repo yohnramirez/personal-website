@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+
+*{
+    font-family: 'Rubik', sans-serif;
+}
+
+#title{
+    font-family: 'Fascinate Inline', cursive;
+}
